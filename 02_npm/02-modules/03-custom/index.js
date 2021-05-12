@@ -5,4 +5,4 @@ function chunkArr(arr) {
     return teams;
 }
 
-module.exports = chunkArr
+module.exports = chunkArr;
